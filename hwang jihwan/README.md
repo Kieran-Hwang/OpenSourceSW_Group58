@@ -20,3 +20,8 @@ Players can explore a fantasy world, make decisions, and engage in battles or ra
 2. Install the required libraries:
    ```bash
    pip install transformers torch
+---
+
+## Play screen
+![image](https://github.com/user-attachments/assets/26694875-97ab-4755-a4db-4147cddc491b)
+
